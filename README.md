@@ -9,3 +9,4 @@ Here is a list of repositories containing examples. For more information, check 
 | face-tracking-face-mesh | https://github.com/zappar-xr/babylonjs-example-face-tracking-face-mesh/ |
 | image-tracking-3d-model | https://github.com/zappar-xr/babylonjs-example-image-tracking-3d-model/ |
 | instant-tracking-3d-model | https://github.com/zappar-xr/babylonjs-example-instant-tracking-3d-model/ |
+| instant-tracking-real-time-env-map | https://github.com/zappar-xr/babylonjs-example-instant-tracking-real-time-env-map/ |
